@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1385393339 source:c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\testes\listasencad\eliminait.cpp
+	<iostream>
+	<stdlib.h>
+	"ListaSEncad.h"
+
+1372202702 c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\testes\listasencad\listasencad.h
+	"No.h"
+
+1385393353 c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\testes\listasencad\no.h
+
+1385393284 source:c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\testes\listasencad\listasencad.cpp
+	<iostream>
+	<stdlib.h>
+	"ListaSEncad.h"
+
+1385393339 source:c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\testes\listasencad\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"ListaSEncad.h"
+
