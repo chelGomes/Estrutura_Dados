@@ -20,23 +20,24 @@
 	<time.h>
 	"ListaSEncad.h"
 
-1416074669 source:c:\documents and settings\cliente\meus documentos\ufjf\dcc\exercicios\listasencad\eliminait.cpp
+1385393338 source:c:\documents and settings\cliente\meus documentos\ufjf\dcc\estrutura de dados\listasencad\eliminait.cpp
 	<iostream>
 	<stdlib.h>
 	"ListaSEncad.h"
 
-1416074689 c:\documents and settings\cliente\meus documentos\ufjf\dcc\exercicios\listasencad\listasencad.h
+1432170756 c:\documents and settings\cliente\meus documentos\ufjf\dcc\estrutura de dados\listasencad\listasencad.h
 	"No.h"
 
-1385389752 c:\documents and settings\cliente\meus documentos\ufjf\dcc\exercicios\listasencad\no.h
+1385393352 c:\documents and settings\cliente\meus documentos\ufjf\dcc\estrutura de dados\listasencad\no.h
 
-1416074634 source:c:\documents and settings\cliente\meus documentos\ufjf\dcc\exercicios\listasencad\listasencad.cpp
+1432169552 source:c:\documents and settings\cliente\meus documentos\ufjf\dcc\estrutura de dados\listasencad\listasencad.cpp
 	<iostream>
 	<stdlib.h>
 	"ListaSEncad.h"
 
-1416085312 source:c:\documents and settings\cliente\meus documentos\ufjf\dcc\exercicios\listasencad\main.cpp
+1432169917 source:c:\documents and settings\cliente\meus documentos\ufjf\dcc\estrutura de dados\listasencad\main.cpp
 	<iostream>
 	<stdlib.h>
+	<time.h>
 	"ListaSEncad.h"
 

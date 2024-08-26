@@ -88,3 +88,56 @@ ListaSEncad::~ListaSEncad()
         p = t;
     }
 }
+
+void ListaSEncad::InsereUltimo(float val)
+{
+    No* p = new No();
+    p->atribProx(NULL);
+    p->atribInfo(val);
+    No* x = pri;
+    if(p!=NULL)
+    {
+        while(p->consultaProx()!=NULL)
+        p = p->consultaProx();
+        p->atribProx(p);
+    }
+    else
+        pri = p;
+}
+
+void ListaSEncad::RemoveNoIt()
+{
+    if(pri!=NULL)
+    {
+        if(pri == it)
+            pri = pri->consultaProx();
+        else{
+            No* p = pri;
+            while(p->consultaProx()!= it)
+                p = p->consultaProx();
+            p->atribProx(it->consultaProx());
+        }
+        delete it;
+    }
+}
+
+void ListaSEncad::RemoverUltimo()
+{
+    No* p;
+    No* ap;
+    p = pri;
+    ap = NULL;
+    if(p!=NULL)
+    {
+        while(p->consultaProx()!=NULL)
+        {
+            ap = p;
+            p = p->consultaProx();
+        }
+        if(ap!=NULL)
+            ap->atribProx(NULL);
+        else
+            pri = NULL;
+        delete p;
+    }
+}

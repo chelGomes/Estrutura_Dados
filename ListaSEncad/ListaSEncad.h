@@ -21,8 +21,8 @@ class ListaSEncad
     void EliminaPri(); // elimina o primeiro nó da lista
     void EliminaIt();
     ~ListaSEncad();
-    void ImprimeLista();
-    int ValMaioresK(ListaSEncad*Lista,int k);
-    void RemoveVal(float Val);
+    void InsereUltimo(float val);
+    void RemoveNoIt();
+    void RemoverUltimo();
 };
 #endif // LISTASENCAD_H_INCLUDED
