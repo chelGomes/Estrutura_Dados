@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1189868556 source:c:\users\joao\dropbox\custodio\trabalho tutores - fr�ncila e jo�o vitor\projetos code blocks\04.ed.listaslineares-1-2014-1-apresenta��o\tlistcont\main.cpp
+	<iostream>
+
+1189868556 
+
+1412187119 source:/home/joao/Dropbox/Custodio/Trabalho Tutores - Frâncila e João Vitor/Projetos Code Blocks/04.ED.ListasLineares-1-2014-1-Apresentação/TListCont/TListCont.cpp
+	"TListCont.h"
+	<iostream>
+	<cstdlib>
+
+1408026402 /home/joao/Dropbox/Custodio/Trabalho Tutores - Frâncila e João Vitor/Projetos Code Blocks/04.ED.ListasLineares-1-2014-1-Apresentação/TListCont/TListCont.h
+
+1412186937 source:/home/joao/Dropbox/Custodio/Trabalho Tutores - Frâncila e João Vitor/Projetos Code Blocks/04.ED.ListasLineares-1-2014-1-Apresentação/TListCont/main.cpp
+	<iostream>
+	"TListCont.h"
+
