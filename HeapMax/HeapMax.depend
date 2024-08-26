@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1457206367 source:c:\users\michel 2\desktop\heapmax\heapmax.cpp
+	<iostream>
+	"HeapMax.h"
+
+1457206474 c:\users\michel 2\desktop\heapmax\heapmax.h
+	<iostream>
+	<cstdlib>
+
