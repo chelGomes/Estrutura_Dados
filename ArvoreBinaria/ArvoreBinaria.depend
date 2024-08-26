@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1362395287 source:c:\users\itamar\dropbox\lab prog ii\codigosdosslides\arvorebinaria\main.cpp
+	<iostream>
+	"ArvBin.h"
+
+1362008987 
+
+1362089690 source:c:\users\itamar\dropbox\lab prog ii\codigosdosslides\arvorebinaria\arvbin.cpp
+	<iostream>
+	"ArvBin.h"
+
+1362395356 c:\users\itamar\dropbox\lab prog ii\codigosdosslides\arvorebinaria\arvbin.h
+	"No.h"
+
+1362009906 c:\users\itamar\dropbox\lab prog ii\codigosdosslides\arvorebinaria\no.h
+
+1362010475 source:/home/jairo/Dropbox/documentos/AcadÃªmicos/Cursos/Estruturas de Dados/LaboratÃ³rio de ProgramaÃ§Ã£o II/Lab Prog II/codigosDosSlides/ArvoreBinaria/ArvBin.cpp
+	<iostream>
+	"ArvBin.h"
+
+1362009906 /home/jairo/Dropbox/documentos/AcadÃªmicos/Cursos/Estruturas de Dados/LaboratÃ³rio de ProgramaÃ§Ã£o II/Lab Prog II/codigosDosSlides/ArvoreBinaria/ArvBin.h
+	"No.h"
+
+1362009906 /home/jairo/Dropbox/documentos/AcadÃªmicos/Cursos/Estruturas de Dados/LaboratÃ³rio de ProgramaÃ§Ã£o II/Lab Prog II/codigosDosSlides/ArvoreBinaria/No.h
+
+1362010414 source:/home/jairo/Dropbox/documentos/AcadÃªmicos/Cursos/Estruturas de Dados/LaboratÃ³rio de ProgramaÃ§Ã£o II/Lab Prog II/codigosDosSlides/ArvoreBinaria/main.cpp
+	<iostream>
+	"ArvBin.h"
+
+1375293490 source:d:\dropbox\lab prog ii\codigosdosslides\arvorebinaria\arvbin.cpp
+	<iostream>
+	<cstdlib>
+	"ArvBin.h"
+
+1362395356 d:\dropbox\lab prog ii\codigosdosslides\arvorebinaria\arvbin.h
+	"No.h"
+
+1362009906 d:\dropbox\lab prog ii\codigosdosslides\arvorebinaria\no.h
+
+1375293487 source:d:\dropbox\lab prog ii\codigosdosslides\arvorebinaria\main.cpp
+	<iostream>
+	"ArvBin.h"
+
+1389589315 source:c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\material\labii\codigosdosslides\arvorebinaria\main.cpp
+	<iostream>
+	"ArvBin.h"
+
+1389589328 c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\material\labii\codigosdosslides\arvorebinaria\arvbin.h
+	"No.h"
+
+1389587511 c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\material\labii\codigosdosslides\arvorebinaria\no.h
+
+1389589315 source:c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\material\labii\codigosdosslides\arvorebinaria\arvbin.cpp
+	<iostream>
+	<cstdlib>
+	"ArvBin.h"
+
+1454284241 source:d:\dropbox\edlab2\lab prog ii\codigosdosslides\arvorebinaria\arvbin.cpp
+	<iostream>
+	<cstdlib>
+	"ArvBin.h"
+
+1454283838 d:\dropbox\edlab2\lab prog ii\codigosdosslides\arvorebinaria\arvbin.h
+	"No.h"
+
+1389583911 d:\dropbox\edlab2\lab prog ii\codigosdosslides\arvorebinaria\no.h
+
+1454284415 source:d:\dropbox\edlab2\lab prog ii\codigosdosslides\arvorebinaria\main.cpp
+	<iostream>
+	"ArvBin.h"
+
+1457274156 source:c:\users\michel 2\desktop\arvorebinaria\main.cpp
+	<iostream>
+	"ArvBin.h"
+	"ArvGrau3.h"
+
+1457275541 c:\users\michel 2\desktop\arvorebinaria\arvbin.h
+	"No.h"
+
+1454348159 c:\users\michel 2\desktop\arvorebinaria\no.h
+
+1457277882 source:c:\users\michel 2\desktop\arvorebinaria\arvbin.cpp
+	<iostream>
+	<cstdlib>
+	"ArvBin.h"
+
+1457103103 source:c:\users\michel 2\desktop\arvorebinaria\arvgrau3.cpp
+	<iostream>
+	<cstdlib>
+	"ArvGrau3.h"
+
+1457103114 c:\users\michel 2\desktop\arvorebinaria\arvgrau3.h
+	"No3.h"
+
+1457102374 c:\users\michel 2\desktop\arvorebinaria\no3.h
+
