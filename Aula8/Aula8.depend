@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1452462164 source:d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula8\aula8\filaencad.cpp
+	"FilaEncad.h"
+
+1452461442 d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula8\aula8\filaencad.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1452461784 d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula8\aula8\no.h
+
+1452462128 source:d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula8\aula8\main.cpp
+	<iostream>
+	"PilhaEncad.h"
+	"FilaEncad.h"
+
+1452461864 d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula8\aula8\pilhaencad.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1452462197 source:d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula8\aula8\pilhaencad.cpp
+	"PilhaEncad.h"
+
+1453649805 source:c:\users\michel 2\desktop\aula8\filaencad.cpp
+	"FilaEncad.h"
+
+1453647874 c:\users\michel 2\desktop\aula8\filaencad.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1452465384 c:\users\michel 2\desktop\aula8\no.h
+
