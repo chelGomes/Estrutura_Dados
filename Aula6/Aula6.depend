@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1450051220 source:d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula6\aula6\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"ListaCont.h"
+
+1450051201 d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula6\aula6\listacont.h
+
+1450051161 source:d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula6\aula6\main.cpp
+	<iostream>
+	"ListaCont.h"
+
