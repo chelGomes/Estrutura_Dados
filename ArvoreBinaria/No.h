@@ -1,21 +1,21 @@
 #ifndef NO_H_INCLUDED
 #define NO_H_INCLUDED
 
-class No
+class TNo
 {
   private:
-    No* esq; // ponteiro para o filho a esquerda
+    TNo* esq; // ponteiro para o filho a esquerda
     int info; // informação do No (int)
-    No* dir; // ponteiro para o filho a direita
+    TNo* dir; // ponteiro para o filho a direita
   public:
-    No()                    {};
-    void setEsq(No* p)    { esq = p; };
-    void setInfo(int val) { info = val; };
-    void setDir(No* p)    { dir = p; };
-    No* getEsq()       { return esq; };
-    int getInfo()      { return info; };
-    No* getDir()       { return dir; };
-    ~No()                   {};
+    TNo()                    {};
+    void atribEsq(TNo* p)    { esq = p; };
+    void atribInfo(int val) { info = val; };
+    void atribDir(TNo* p)    { dir = p; };
+    TNo* consultaEsq()       { return esq; };
+    int consultaInfo()      { return info; };
+    TNo* consultaDir()       { return dir; };
+    ~TNo()                   {};
 };
 
 #endif // NO_H_INCLUDED

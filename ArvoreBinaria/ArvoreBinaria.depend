@@ -55,42 +55,12 @@
 	<cstdlib>
 	"ArvBin.h"
 
-1454284241 source:d:\dropbox\edlab2\lab prog ii\codigosdosslides\arvorebinaria\arvbin.cpp
+1389589314 source:c:\documents and settings\cliente\meus documentos\ufjf\dcc\estrutura de dados\tvc 3\arvorebinaria\main.cpp
 	<iostream>
-	<cstdlib>
 	"ArvBin.h"
 
-1454283838 d:\dropbox\edlab2\lab prog ii\codigosdosslides\arvorebinaria\arvbin.h
+1404583263 c:\documents and settings\cliente\meus documentos\ufjf\dcc\estrutura de dados\tvc 3\arvorebinaria\arvbin.h
 	"No.h"
 
-1389583911 d:\dropbox\edlab2\lab prog ii\codigosdosslides\arvorebinaria\no.h
-
-1454284415 source:d:\dropbox\edlab2\lab prog ii\codigosdosslides\arvorebinaria\main.cpp
-	<iostream>
-	"ArvBin.h"
-
-1457274156 source:c:\users\michel 2\desktop\arvorebinaria\main.cpp
-	<iostream>
-	"ArvBin.h"
-	"ArvGrau3.h"
-
-1457275541 c:\users\michel 2\desktop\arvorebinaria\arvbin.h
-	"No.h"
-
-1454348159 c:\users\michel 2\desktop\arvorebinaria\no.h
-
-1457277882 source:c:\users\michel 2\desktop\arvorebinaria\arvbin.cpp
-	<iostream>
-	<cstdlib>
-	"ArvBin.h"
-
-1457103103 source:c:\users\michel 2\desktop\arvorebinaria\arvgrau3.cpp
-	<iostream>
-	<cstdlib>
-	"ArvGrau3.h"
-
-1457103114 c:\users\michel 2\desktop\arvorebinaria\arvgrau3.h
-	"No3.h"
-
-1457102374 c:\users\michel 2\desktop\arvorebinaria\no3.h
+1404567823 c:\documents and settings\cliente\meus documentos\ufjf\dcc\estrutura de dados\tvc 3\arvorebinaria\no.h
 
