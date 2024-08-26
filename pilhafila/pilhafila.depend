@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1361198446 source:c:\users\debora\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\no.cpp
+	"no.h"
+
+1361198348 c:\users\debora\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\no.h
+
+1361198639 source:c:\users\debora\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\pilha.cpp
+	"pilha.h"
+
+1361198694 c:\users\debora\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\pilha.h
+	<iostream>
+	<cstdlib>
+	"no.h"
+
+1361198662 source:c:\users\debora\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\main.cpp
+	<iostream>
+	"pilha.h"
+	"fila.h"
+
+1361198925 c:\users\debora\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\fila.h
+	<iostream>
+	<cstdlib>
+	"no.h"
+
+1361198935 source:c:\users\debora\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\fila.cpp
+	"fila.h"
+
+1361198662 source:c:\users\itamar\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\main.cpp
+	<iostream>
+	"pilha.h"
+	"fila.h"
+
+1361198694 c:\users\itamar\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\pilha.h
+	<iostream>
+	<cstdlib>
+	"no.h"
+
+1361198348 c:\users\itamar\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\no.h
+
+1361198925 c:\users\itamar\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\fila.h
+	<iostream>
+	<cstdlib>
+	"no.h"
+
+1361198446 source:c:\users\itamar\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\no.cpp
+	"no.h"
+
+1361198639 source:c:\users\itamar\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\pilha.cpp
+	"pilha.h"
+
+1361198935 source:c:\users\itamar\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\fila.cpp
+	"fila.h"
+
+1374011614 source:d:\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\main.cpp
+	<iostream>
+	"pilha.h"
+	"fila.h"
+
+1374011394 d:\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\pilha.h
+	<iostream>
+	<cstdlib>
+	"no.h"
+
+1374011408 d:\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\no.h
+
+1374011496 d:\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\fila.h
+	<iostream>
+	<cstdlib>
+	"no.h"
+
+1374011428 source:d:\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\no.cpp
+	"no.h"
+
+1374011478 source:d:\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\pilha.cpp
+	"pilha.h"
+
+1374011537 source:d:\dropbox\lab prog ii\codigosdosslides\aula09_lab_tadpilhafila\pilhafila\fila.cpp
+	"fila.h"
+
+1374011536 source:c:\documents and settings\cliente\meus documentos\ufjf\dcc\exercicios\pilhafila\fila.cpp
+	"fila.h"
+
+1416078991 c:\documents and settings\cliente\meus documentos\ufjf\dcc\exercicios\pilhafila\fila.h
+	<iostream>
+	<cstdlib>
+	"no.h"
+
+1374011408 c:\documents and settings\cliente\meus documentos\ufjf\dcc\exercicios\pilhafila\no.h
+
