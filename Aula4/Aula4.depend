@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1447842581 source:/home/rocha/Dropbox/edlab2/MaterialNovo/LabProgramacao2/Codigos/Aula4/Aula4/main.cpp
+	<iostream>
+	<Aluno.h>
+	<Prova.h>
+
+1447841821 /home/rocha/Dropbox/edlab2/MaterialNovo/LabProgramacao2/Codigos/Aula4/Aula4/include/Aluno.h
+	<iostream>
+	<string>
+
+1447841686 source:/home/rocha/Dropbox/edlab2/MaterialNovo/LabProgramacao2/Codigos/Aula4/Aula4/src/Aluno.cpp
+	"Aluno.h"
+
+1447842593 source:/home/rocha/Dropbox/edlab2/MaterialNovo/LabProgramacao2/Codigos/Aula4/Aula4/src/Prova.cpp
+	"Prova.h"
+
+1447842616 /home/rocha/Dropbox/edlab2/MaterialNovo/LabProgramacao2/Codigos/Aula4/Aula4/include/Prova.h
+	<iostream>
+
