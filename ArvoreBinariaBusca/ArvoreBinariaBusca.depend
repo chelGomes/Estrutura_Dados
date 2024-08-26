@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1361212971 source:d:\dropbox\lab prog ii\codigosdsgraph\arvore_binaria_busca_c++\main.cpp
+	<iostream>
+	"arvore.h"
+	"/usr/lib/DSGraph.h"
+
+1361212966 d:\dropbox\lab prog ii\codigosdsgraph\arvore_binaria_busca_c++\arvore.h
+	<iostream>
+	<cstdlib>
+	"/usr/lib/DSGraph.h"
+
+1361212972 source:d:\dropbox\lab prog ii\codigosdsgraph\arvore_binaria_busca_c++\arvore.cpp
+	"arvore.h"
+	"/usr/lib/DSGraph.h"
+	<stdio.h>
+
+1376424471 source:d:\dropbox\lab prog ii\codigosdosslides\arvorebinariabusca\no.cpp
+	"No.h"
+
+1376426132 d:\dropbox\lab prog ii\codigosdosslides\arvorebinariabusca\no.h
+
+1376435531 source:d:\dropbox\lab prog ii\codigosdosslides\arvorebinariabusca\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1376437278 d:\dropbox\lab prog ii\codigosdosslides\arvorebinariabusca\arvbinbusca.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1376437235 source:d:\dropbox\lab prog ii\codigosdosslides\arvorebinariabusca\arvbinbusca.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1404146597 source:c:\users\itamar\dropbox\lab prog ii\codigosdosslides\arvorebinariabusca\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1404146418 c:\users\itamar\dropbox\lab prog ii\codigosdosslides\arvorebinariabusca\arvbinbusca.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1390180143 c:\users\itamar\dropbox\lab prog ii\codigosdosslides\arvorebinariabusca\no.h
+
+1390180143 source:c:\users\itamar\dropbox\lab prog ii\codigosdosslides\arvorebinariabusca\no.cpp
+	"No.h"
+
+1404146445 source:c:\users\itamar\dropbox\lab prog ii\codigosdosslides\arvorebinariabusca\arvbinbusca.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1390187343 source:c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\material\labii\codigosdosslides\arvorebinariabusca\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1390186546 c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\material\labii\codigosdosslides\arvorebinariabusca\arvbinbusca.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1390187343 c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\material\labii\codigosdosslides\arvorebinariabusca\no.h
+
+1390186710 source:c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\material\labii\codigosdosslides\arvorebinariabusca\arvbinbusca.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1390187343 source:c:\users\saulo\dropbox\ufjf\aulas\2013-3\dcc107 - laboratório de programação ii\material\labii\codigosdosslides\arvorebinariabusca\no.cpp
+	"No.h"
+
+1390183743 source:c:\users\saulo\dropbox\ufjf\aulas\2014-1\dcc107 - laboratóirio de programação ii\material\labii\codigosdosslides\arvorebinariabusca\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1404146418 c:\users\saulo\dropbox\ufjf\aulas\2014-1\dcc107 - laboratóirio de programação ii\material\labii\codigosdosslides\arvorebinariabusca\arvbinbusca.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1390183743 c:\users\saulo\dropbox\ufjf\aulas\2014-1\dcc107 - laboratóirio de programação ii\material\labii\codigosdosslides\arvorebinariabusca\no.h
+
+1390183743 source:c:\users\saulo\dropbox\ufjf\aulas\2014-1\dcc107 - laboratóirio de programação ii\material\labii\codigosdosslides\arvorebinariabusca\no.cpp
+	"No.h"
+
+1404146445 source:c:\users\saulo\dropbox\ufjf\aulas\2014-1\dcc107 - laboratóirio de programação ii\material\labii\codigosdosslides\arvorebinariabusca\arvbinbusca.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1456074890 source:d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula10\arvorebinariabusca\arvbinbusca.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1456074820 d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula10\arvorebinariabusca\arvbinbusca.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1456074926 d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula10\arvorebinariabusca\no.h
+
+1456074903 source:d:\dropbox\edlab2\materialnovo\labprogramacao2\codigos\aula10\arvorebinariabusca\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1456166868 source:c:\users\michel 2\desktop\arvorebinariabusca\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1457216035 c:\users\michel 2\desktop\arvorebinariabusca\arvbinbusca.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1456074926 c:\users\michel 2\desktop\arvorebinariabusca\no.h
+
+1457216035 source:c:\users\michel 2\desktop\arvorebinariabusca\arvbinbusca.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
